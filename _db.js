@@ -20,7 +20,7 @@ const reviews = [
         id: "1",
         rating: 10,
         content: "An amazing adventure with stunning visuals and an immersive world.",
-        author_id: "1",
+        author_id: "2",
         game_id: "1"
     },
     {
